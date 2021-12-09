@@ -64,7 +64,7 @@ Linear programming is an optimization technique for a system of linear constrain
 Here we created one interesting task. Imagine we have 100 teachers and 10 schools. We have the data what is the distance from each school from each teacher.
 We want that our teachers be satisfied, that they does not travell a lot, in our intent, as municipality officer to assign one new teacher to the each school.
 We also have some budget constraing and salary expectation for each teacher. How would you do the optimal assignment of teachers to school? By LP!
-The formalisation of all equtations could be seen here: https://github.com/Vitomir84/ML_algorithms/blob/main/Linear%20Programming/TEACHERS.lp
+The formalisation of all equtations could be seen here: ([Teachers.lp])https://github.com/Vitomir84/ML_algorithms/blob/main/Linear%20Programming/TEACHERS.lp))
 
 
 
