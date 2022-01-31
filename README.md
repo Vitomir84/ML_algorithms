@@ -67,7 +67,7 @@ We also have some budget constraing and salary expectation for each teacher. How
 The formalisation of all equtations could be seen here: ([Teachers.lp](https://github.com/Vitomir84/ML_algorithms/blob/main/Linear%20Programming/TEACHERS.lp))
 
 
-#### TimeSeries forecasting with SARIMAX ([Link] (https://github.com/Vitomir84/ML_algorithms/blob/main/Timeseries%20comprehensive.ipynb))
+#### TimeSeries forecasting with SARIMAX ([Link](https://github.com/Vitomir84/ML_algorithms/blob/main/Timeseries%20comprehensive.ipynb))
 
 This scripts explains the basic concepts for understanding timeseries: trend, seasonality, white noise, stationarity and makes forecasting example with autoregresive, differencing and moving averages parameters. This is mandatory step for understanding any timeseries data.
 
