@@ -71,4 +71,9 @@ The formalisation of all equtations could be seen here: ([Teachers.lp](https://g
 
 This scripts explains the basic concepts for understanding timeseries: trend, seasonality, white noise, stationarity and makes forecasting example with autoregresive, differencing and moving averages parameters. This is mandatory step for understanding any timeseries data.
 
+#### Automatised search for hyperparameters for SARIMA forecasting model ([Link](https://github.com/Vitomir84/ML_algorithms/blob/main/Auto%20ARIMA%20hyperparameter%20search.ipynb))
+
+Here you cand find a tool that will do auto hyperparameter search for autoregressive, differencing, moving average and seasonality parameters for SARIMA forecasting model.
+
+
 
