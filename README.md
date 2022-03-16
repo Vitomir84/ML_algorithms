@@ -75,5 +75,13 @@ This scripts explains the basic concepts for understanding timeseries: trend, se
 
 Here you cand find a tool that will do auto hyperparameter search for autoregressive, differencing, moving average and seasonality parameters for SARIMA forecasting model.
 
+#### SMOTE and Cost Learning for imbalanced dataset in Fraud Detection ([Link](https://github.com/Vitomir84/ML_algorithms/blob/main/Online_Payments_Fraud_Detection.ipynb))
+
+This part is not finished and some parts of explanations are in Serbian, but the majority of the code is there, with interesting visualisation of SMOTE syntheting data oversampling. 
+
+#### XGBoost model on breast_cancer_dataset with precision-recall curve, ROC curve and shap values ([Link](https://github.com/Vitomir84/ML_algorithms/blob/main/Breath_cancer_with_shap_values.ipynb))
+
+This part contains ML model of very important dataset with  an ilustration of importance of particular features in cancer prediction. Shap package offers very nice visualisation of feature importance for interpretable ML models
+
 
 
